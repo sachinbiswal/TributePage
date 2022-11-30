@@ -1,2 +1,1 @@
-# TributePage
-https://sachinbiswal.github.io/TributePage/
+# TributePage : https://sachinbiswal.github.io/TributePage/
